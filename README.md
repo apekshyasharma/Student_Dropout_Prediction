@@ -1,5 +1,3 @@
-﻿# Student_Dropout_Prediction
-
 # Student Dropout Prediction 
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
@@ -27,3 +25,4 @@ Student dropout is a critical issue in education systems worldwide. This project
 ├── models/                # Saved model files (.pkl or .h5)
 ├── requirements.txt       # List of dependencies
 └── README.md              # Project documentation
+
